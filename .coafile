@@ -1,0 +1,3 @@
+[test]
+bears = PEP8Bear
+files = test.py
